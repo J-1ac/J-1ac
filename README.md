@@ -1,6 +1,6 @@
 # Hi, there 👋
 - :school:  Student at Pusan Nat'l University
-- 🌱  I’m currently learning Python PS
+- 🌱  I’m currently learning [Python PS](https://solved.ac/profile/tkdwns26)
 - :fire:  To make 2022 green
 
 <!--
