@@ -1,7 +1,7 @@
 # Hi, there 👋
-- :school:  Student at Pusan Nat'l University
-- 🌱  I’m currently learning Python PS
-- :fire:  To make 2022 green
+## - :school:  Student at Pusan Nat'l University
+## - 🌱  I’m currently learning Python PS
+## - :fire:  To make 2022 green
 
 <!--
 **J-1ac/J-1ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
