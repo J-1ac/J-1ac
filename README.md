@@ -1,7 +1,7 @@
 # Hi, there 👋
-- :school:  Student at Pusan National University
+- :school:  Student at Pusan National University / Computer Science Eng.
 - 🌱  I’m currently learning [Python PS](https://solved.ac/profile/tkdwns26)
-- :fire:  Just Do It 
+- :fire:  Motivate !
 
 <!--
 **J-1ac/J-1ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
