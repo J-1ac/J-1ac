@@ -1,5 +1,5 @@
 # Hi, there 👋
-- :school:  Student at Pusan National University / Computer Science Eng.
+- :school:  Student at Pusan Nat'l Univ / Computer Science Eng.
 - 🌱  I’m currently learning [Python PS](https://solved.ac/profile/tkdwns26)
 - :fire:  Hooah !
 
