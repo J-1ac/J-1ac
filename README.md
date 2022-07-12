@@ -2,7 +2,7 @@
 - :kr:  From Republic of Korea
 - :school:  Student at Pusan Nat'l Univ / Computer Science Eng.
 - 🌱  I’m currently learning [Python PS](https://solved.ac/profile/tkdwns26)
-> :fire:  Hooah !
+> Hooah :fire:
 
 <!--
 **J-1ac/J-1ac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
