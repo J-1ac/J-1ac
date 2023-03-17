@@ -1,7 +1,7 @@
 # Hi, there 👋
 - :kr:  From Republic of Korea
 - :school:  Student at Pusan Nat'l Univ / Computer Science Eng.
-- 🌱  I’m currently learning [Python PS](https://solved.ac/profile/tkdwns26) & [Cpp Exercise](https://github.com/J-1ac/Cpp_practice)
+- 🌱  I’m currently learning [PS](https://solved.ac/profile/tkdwns26)
 > Hooah :fire:
 
 <!--
