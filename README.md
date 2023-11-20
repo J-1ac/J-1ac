@@ -27,18 +27,12 @@
 - 2023 PNU Tiny ML Challenge 2023 1위 (부산대학교 정보의생명공학대학장상)
 
 <h2 align="center">
-  <b>Languages</b><br>
+  <b>Skills</b><br>
 </h2>
 
-- Java, C++, Python, SQL, Kotlin, C
-
-<h2 align="center">
-  <b>Frameworks</b><br>
-</h2>
-
-- Spring
-
----
+- Languages: Java, C++, Python, SQL, C, JavaScript, Kotlin..
+- Frameworks: Spring Boot
+- Database: H2, PostgreSQL
 
 <details>
     
