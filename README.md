@@ -1,5 +1,31 @@
 # Hooah :fire:
 
+<h3 align="center">
+  <b>이상준 | Sangjun Lee</b><br>
+  <i>Aspiring backend developer who turning ideas to real-world solution</i><br><br><br>
+</h3>
+
+### Education
+March 2019 - Present: Pusan National University, Computer Science and Engineering Department.
+Undergraduated, Junior
+
+**Pusan National University**  
+*Computer Science and Engineering Department*  
+*Undergraduate, Junior*  
+*March 2019 - Present*  
+
+
+<h3 align="center">Education</h3>
+<p align="center">
+  <b>Pusan National University</b><br>
+  <i>Computer Science and Engineering Department</i><br>
+  <i>Undergraduate, Junior</i><br>
+  <i>March 2019 - Present</i>
+</p>
+
+
+
+
 - :kr:  From Republic of Korea
 - :school:  Student at Pusan Nat'l Univ / Computer Science Eng.
 - 🌱  I’m currently learning [PS](https://solved.ac/profile/tkdwns26)<br><br>
