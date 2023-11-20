@@ -30,7 +30,7 @@
   <b>Skills</b><br>
 </h2>
 
-- Languages: Java, C++, Python, SQL, C, JavaScript, Kotlin..
+- Languages: Java, C++, Python, SQL, JavaScript, C, Kotlin..
 - Frameworks: Spring Boot
 - Database: H2, PostgreSQL
 
