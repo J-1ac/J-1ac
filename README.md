@@ -30,7 +30,7 @@
   <b>Languages</b><br>
 </h2>
 
-- C, C++, Python, Java, Kotlin
+- Java, C++, Python, SQL, Kotlin, C
 
 <h2 align="center">
   <b>Frameworks</b><br>
