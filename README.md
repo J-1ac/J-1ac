@@ -24,7 +24,7 @@
 
 - 2020 부산대학교 컴퓨터기초실험 프로젝트 우수상 (부산대학교 정보컴퓨터공학전공주임상)
 - DX Living Solution 공모전 우수상 (부산대학교 공과대학장상)
-- 2023 PNU Tiny ML Challenge 2023 1위 (부산대학교 정보의생명공학대학장상)
+- 2023 PNU Tiny ML Challenge 2023 금상 (부산대학교 정보의생명공학대학장상)
 
 <h2 align="center">
   <b>Skills</b><br>
