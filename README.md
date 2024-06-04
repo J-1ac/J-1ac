@@ -7,8 +7,6 @@
   <b>Experience</b><br>
 </h2>
 
-- 2023 데이터베이스 과목을 수강하며 진행한 db관리 텀프로젝트 - 뭐먹지 [mmg](https://github.com/J-1ac/dbProject)
-- 2023 부산대학교 SW 교육센터 주관 백엔드 미니 캠프 수강 2023. 09. ~ 11.
 - 2023 DX Living Solution 공모전 - 세탁기 시뮬레이터의 알고리즘 구현 및 결함 분석 도구 개발 (통신 및 알고리즘 구현) [DXLivingSol](https://github.com/J-1ac/DXLivingSol)
 - 2023 부산 연합 IT 동아리 PROJECT - MemeStore 개발 (BE) [MemeStore](https://github.com/WebPHub/MemeStore)
 - 2020 컴퓨터기초실험 프로젝트 - 마스크 자동 살균기 제작
