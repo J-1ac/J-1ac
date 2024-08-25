@@ -7,6 +7,7 @@
   <b>Experience</b><br>
 </h2>
 
+- 카카오 테크 캠퍼스 2기 BE 트랙 참여 중
 - 대리 출석 방지를 위한 안면 인식 기반 출석 시스템 NoDaeChul 개발 (BE) [NoDaeChul](https://github.com/hunsy9/NoDaechul)
 - 2023 DX Living Solution 공모전 - 세탁기 시뮬레이터의 알고리즘 구현 및 결함 분석 도구 개발 (통신 및 알고리즘 구현) [DXLivingSol](https://github.com/J-1ac/DXLivingSol)
 - 2023 부산 연합 IT 동아리 PROJECT - MemeStore 개발 (BE) [MemeStore](https://github.com/WebPHub/MemeStore)
