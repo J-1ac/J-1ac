@@ -7,6 +7,7 @@
   <b>Experience</b><br>
 </h2>
 
+- 대리 출석 방지를 위한 안면 인식 기반 출석 시스템 NoDaeChul 개발 (BE) [NoDaeChul](https://github.com/hunsy9/NoDaechul)
 - 2023 DX Living Solution 공모전 - 세탁기 시뮬레이터의 알고리즘 구현 및 결함 분석 도구 개발 (통신 및 알고리즘 구현) [DXLivingSol](https://github.com/J-1ac/DXLivingSol)
 - 2023 부산 연합 IT 동아리 PROJECT - MemeStore 개발 (BE) [MemeStore](https://github.com/WebPHub/MemeStore)
 - 2020 컴퓨터기초실험 프로젝트 - 마스크 자동 살균기 제작
@@ -15,6 +16,7 @@
   <b>Awards</b><br>
 </h2>
 
+- 2024 카카오 테크 캠퍼스 아이디어톤 최우수상
 - 2023 PNU Tiny ML Challenge 2023 금상 (부산대학교 정보의생명공학대학장상)
 - 2023 DX Living Solution 공모전 우수상 (부산대학교 공과대학장상)
 - 2020 부산대학교 컴퓨터기초실험 프로젝트 우수상 (부산대학교 정보컴퓨터공학전공주임상)
