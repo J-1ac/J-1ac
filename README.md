@@ -7,6 +7,7 @@
   <b>Experience</b><br>
 </h2>
 
+- 졸업과제 - 실시간 시선 추적 시간 관리 플랫폼 SeagullsRoom 개발 [SeagullsRoom](https://github.com/new3seagull/SeagullsRoom)
 - DIVE 2024 - WYD2027 행사 관리 어플리케이션 Withu 개발 (BE) [Withu](https://github.com/Diving-Seagull/With-u)   
 - 카카오 테크 캠퍼스 2기 BE 트랙 참여 중 [KakaoTechCampus](https://www.kakaotechcampus.com/)  
 - 대리 출석 방지를 위한 안면 인식 기반 출석 시스템 NoDaeChul 개발 (BE) [NoDaeChul](https://github.com/hunsy9/NoDaechul)   
@@ -18,6 +19,7 @@
   <b>Awards</b><br>
 </h2>
 
+- 부산대학교 정보컴퓨터공학부 2024 전기 졸업과제 소프트웨어·인공지능 분과 금상 (부산대학교 정보의생명공학대학장상)
 - 부산광역시 글로벌 해커톤 DIVE2024 삼정KPMG 발제사 3등 (부산테크노파크원장상)
 - 2024 카카오 테크 캠퍼스 아이디어톤 최우수상
 - 2023 PNU Tiny ML Challenge 2023 금상 (부산대학교 정보의생명공학대학장상)
