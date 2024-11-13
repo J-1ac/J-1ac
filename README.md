@@ -38,7 +38,7 @@
   <b>Education</b><br>
 </h2>
 
-- March 2019 - Present: Pusan National University, Computer Science and Engineering Department.
+- Mar 2019 - Feb 2025: Pusan National University, Computer Science and Engineering Department.
 - Undergraduate, Junior
 
 <details>
