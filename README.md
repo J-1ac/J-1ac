@@ -7,7 +7,7 @@
   <b>Experience</b><br>
 </h2>
 
-- 졸업과제 - 실시간 시선 추적 시간 관리 플랫폼 SeagullsRoom 개발 [SeagullsRoom](https://github.com/new3seagull/SeagullsRoom)
+- 졸업과제 - 실시간 시선 추적 기반 시간 관리 플랫폼 SeagullsRoom 개발 [SeagullsRoom](https://github.com/new3seagull/SeagullsRoom)
 - DIVE 2024 - WYD2027 행사 관리 어플리케이션 Withu 개발 (BE) [Withu](https://github.com/Diving-Seagull/With-u)   
 - 카카오 테크 캠퍼스 2기 BE 트랙 참여 중 [KakaoTechCampus](https://www.kakaotechcampus.com/)  
 - 대리 출석 방지를 위한 안면 인식 기반 출석 시스템 NoDaeChul 개발 (BE) [NoDaeChul](https://github.com/hunsy9/NoDaechul)   
