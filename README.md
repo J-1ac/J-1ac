@@ -39,7 +39,7 @@
 </h2>
 
 - Mar 2019 - Feb 2025: Pusan National University, Computer Science and Engineering Department.
-- Undergraduate, Junior
+- Undergraduate, Senior
 
 <details>
     
