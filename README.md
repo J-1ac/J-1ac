@@ -7,6 +7,8 @@
   <b>Experience</b><br>
 </h2>
 
+- 디지랩 챌린지: 기술로 바꾸는 세상 - 제주와 함께하는 힐링산책, 간당 [gandang](https://github.com/Diving-Seagull/gandang)
+- 전세사기 피해자들을 위한 전세사기 대처 웹 플랫폼 Boomerang [Boomerang](https://github.com/kakao-tech-campus-2nd-step3/Team11_BE)
 - 졸업과제 - 실시간 시선 추적 기반 시간 관리 플랫폼 SeagullsRoom 개발 [SeagullsRoom](https://github.com/new3seagull/SeagullsRoom)
 - DIVE 2024 - WYD2027 행사 관리 어플리케이션 Withu 개발 (BE) [Withu](https://github.com/Diving-Seagull/With-u)   
 - 카카오 테크 캠퍼스 2기 BE 트랙 [KakaoTechCampus](https://www.kakaotechcampus.com/)  
