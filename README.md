@@ -7,6 +7,7 @@
   <b>Experience</b><br>
 </h2>
 
+- 2025 지역문제 해결 연합 해커톤 - 소방 업무 효율화를 위한 인공지능 통합 신고 처리 시스템 [Emergency_911](https://github.com/Diving-Seagull/Emergency_911)
 - 디지랩 챌린지: 기술로 바꾸는 세상 - 제주와 함께하는 힐링산책 [간당](https://github.com/Diving-Seagull/gandang)
 - 전세사기 피해자들을 위한 전세사기 대처 웹 플랫폼 [Boomerang](https://github.com/kakao-tech-campus-2nd-step3/Team11_BE)
 - 졸업과제 - 실시간 시선 추적 기반 시간 관리 플랫폼 [SeagullsRoom](https://github.com/new3seagull/SeagullsRoom)
@@ -21,6 +22,7 @@
   <b>Awards</b><br>
 </h2>
 
+- 2025 지역문제 해결 연합 해커톤 경진대회 금상 (부경대학교 소프트웨어융합혁신원장상)
 - 부산대학교 정보컴퓨터공학부 2024 전기 졸업과제 소프트웨어·인공지능 분과 금상 (부산대학교 정보의생명공학대학장상)
 - 부산광역시 글로벌 해커톤 DIVE2024 삼정KPMG 발제사 3등 (부산테크노파크원장상)
 - 2024 카카오 테크 캠퍼스 아이디어톤 최우수상
