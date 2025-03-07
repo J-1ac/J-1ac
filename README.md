@@ -12,7 +12,6 @@
 - 카카오 테크 캠퍼스 - 전세사기 피해자들을 위한 전세사기 대처 웹 플랫폼 [Boomerang](https://github.com/kakao-tech-campus-2nd-step3/Team11_BE)
 - 졸업과제 - 실시간 시선 추적 기반 시간 관리 플랫폼 [SeagullsRoom](https://github.com/new3seagull/SeagullsRoom)
 - DIVE 2024 - WYD2027 행사 관리 어플리케이션 [Withu](https://github.com/Diving-Seagull/With-u)   
-- 카카오 테크 캠퍼스 2기 BE 트랙 수료 [KakaoTechCampus](https://www.kakaotechcampus.com/)  
 - 대리 출석 방지를 위한 안면 인식 기반 출석 시스템 [NoDaeChul](https://github.com/hunsy9/NoDaechul)   
 - 2023 DX Living Solution 공모전 - 세탁기 시뮬레이터의 알고리즘 구현 및 결함 분석 도구 개발 [DXLivingSol](https://github.com/J-1ac/DXLivingSol)   
 - 2023 부산 연합 IT 동아리 PROJECT - [MemeStore](https://github.com/WebPHub/MemeStore)   
@@ -42,8 +41,8 @@
   <b>Education</b><br>
 </h2>
 
-- Mar 2019 - Feb 2025: Pusan National University, Computer Science and Engineering Department.
-- Undergraduate, Senior
+- B.S. in Computer Science and Engineering, Pusan National University. Mar 2019 - Feb 2025
+- [카카오테크캠퍼스 2기 BE](https://www.kakaotechcampus.com/kakaotech/about/list.do). Mar 2024 - Nov 2024 
 
 <details>
     
