@@ -1,6 +1,5 @@
 <h3 align="center">
   <b>이상준 | Sangjun Lee</b><br><br>
-  <i>Aspiring developer who turns ideas into real-world solutions</i><br><br>
 </h3>
 
 <h2 align="center">
