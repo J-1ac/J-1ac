@@ -43,7 +43,7 @@
 - **Assistant Research Engineer, Hanwha Aerospace.<br>**
   Launcher System Research Center, Launcher System Technology Team<br>
   Jul 2025 – Present<br>
-  Developing UV system
+  Developing UV systems
   
 - **Assistant Manager, KEPCO<br>**
   Regional Headquarters (Gyeongnam), ICT Operations Team<br>
