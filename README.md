@@ -34,7 +34,7 @@
 
 - Languages: Java, C#, C++, Python, SQL, JavaScript..
 - Frameworks: Spring Boot, .NET Framework, WPF
-- Database: RDBMS, Redis, ES
+- RDBMS, Redis, ES..
 
 <h2 align="center">
   <b>Work Experience</b><br>
