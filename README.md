@@ -40,12 +40,12 @@
   <b>Work Experience</b><br>
 </h2>
 
-- Assistant Research Engineer, Hanwha Aerospace.<br>
+- **Assistant Research Engineer, Hanwha Aerospace.<br>**
   Launcher System Research Center, Launcher System Technology Team<br>
   Jul 2025 – Present<br>
   Developing UV system
   
-- Assistant Manager, KEPCO<br>
+- **Assistant Manager, KEPCO<br>**
   Regional Headquarters (Gyeongnam), ICT Operations Team<br>
   Jun 2025 – Jul 2025<br>
   Developing RPA solutions
