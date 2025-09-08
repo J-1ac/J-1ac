@@ -32,9 +32,23 @@
   <b>Skills</b><br>
 </h2>
 
-- Languages: Java, C++, Python, SQL, JavaScript, C, Kotlin..
-- Frameworks: Spring Boot
-- Database: H2, PostgreSQL
+- Languages: Java, C#, C++, Python, SQL, JavaScript..
+- Frameworks: Spring Boot, .NET Framework, WPF
+- Database: RDBMS, Redis, ES
+
+<h2 align="center">
+  <b>Work Experience</b><br>
+</h2>
+
+- Assistant Research Engineer, Hanwha Aerospace.
+  Launcher System Research Center, Launcher System Technology Team
+  Jul 2025 – Present
+  - Developing UV system
+  
+- Assistant Manager, KEPCO
+  Regional Headquarters (Gyeongnam), ICT Operations Team
+  Jun 2025 – Jul 2025
+  - Developing RPA solutions
 
 <h2 align="center">
   <b>Education</b><br>
