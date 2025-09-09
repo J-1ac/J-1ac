@@ -41,7 +41,7 @@
 </h2>
 
 - **Assistant Research Engineer, Hanwha Aerospace.<br>**
-  Launcher System Research Center, Launcher System Technology Team<br>
+  Launcher Systems R&D Center, Launcher Systems Technology Team<br>
   Jul 2025 – Present<br>
   Developing UV systems
   
